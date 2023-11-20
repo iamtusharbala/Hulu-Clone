@@ -25,6 +25,11 @@
   border-radius: 10px;
 }
 
+#ott-content .btn {
+  width: 100%;
+  color: black !important;
+  background-color: #1ce783 !important;
+}
 #ott-content .card {
   background: linear-gradient(
       156.82deg,
